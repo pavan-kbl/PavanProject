@@ -1,1 +1,1 @@
-My Laptop is not working so I have taken my friend laptop and pushed this code into my repository with his Username.
+This is House Rental Application with Renters(Users) and Owners have their flexibilities to upload and Buy..
